@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Grace Afolabi**
 
-### **Entry-Level Data Analyst | Passionate About Turning Data Into Actionable Insights**
+### **Data Analyst | Passionate About Turning Data Into Actionable Insights**
 
 I’m a results-driven **Data Analyst** with hands-on experience in **Excel, Python (pandas, numpy, matplotlib), SQL, Power BI, and Tableau**, and building dynamic dashboards. I enjoy transforming raw data into clear, impactful insights that help businesses make informed decisions.
 
