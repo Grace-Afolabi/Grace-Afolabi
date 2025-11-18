@@ -4,7 +4,7 @@
 
 I’m a results-driven **Data Analyst** with hands-on experience in **Excel, Python (pandas, numpy, matplotlib), SQL, Power BI, and Tableau**, and building dynamic dashboards. I enjoy transforming raw data into clear, impactful insights that help businesses make informed decisions.
 
-I’m currently expanding my analytical skills and building real-world portfolio projects to demonstrate my abilities in **data cleaning, analysis, visualization, wrangling, scrapling, and reporting**.
+I’m currently expanding my analytical skills and building real-world portfolio projects to demonstrate my abilities in **data cleaning, analysis, visualization, wrangling, scraping, and reporting**.
 
 ---
 
@@ -18,7 +18,7 @@ I’m currently expanding my analytical skills and building real-world portfolio
 ---
 
 ##  **My Projects**
-Sales-Performance-Analysis
+Sales-Performance-Analysis [https://github.com/Grace-Afolabi/Sales-Performance-Analysis]
 
 
 ---
