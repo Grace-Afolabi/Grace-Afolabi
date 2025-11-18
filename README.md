@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm **Grace Afolabi**
 
-<!--
-**Grace-Afolabi/Grace-Afolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Entry-Level Data Analyst | Passionate About Turning Data Into Actionable Insights**
 
-Here are some ideas to get you started:
+I’m a results-driven **Data Analyst** with hands-on experience in **Excel, Python (pandas, numpy, matplotlib), SQL, Power BI, and Tableau**, and building dynamic dashboards. I enjoy transforming raw data into clear, impactful insights that help businesses make informed decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently expanding my analytical skills and building real-world portfolio projects to demonstrate my abilities in **data cleaning, analysis, visualization, wrangling, scrapling, and reporting**.
+
+---
+
+## 🔧 **Tools & Technologies**
+
+* **Data Analysis:** Microsoft Excel, Python, SQL
+* **Data Visualization:** Excel Dashboards, Power BI, Pivot Charts, Tableau
+* **Data Cleaning & Wrangling:** Excel Functions, Transformations, Pandas, Numpy, Matplotlib
+* **Other Skills:** Critical thinking, storytelling, documentation, reporting
+
+---
+
+##  **My Projects**
+
+
+---
+
+##  **Let's Connect**
+
+* **LinkedIn:** *(https://www.linkedin.com/in/grace-afolabi)*
+
+---
+
+
+
