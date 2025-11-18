@@ -18,6 +18,7 @@ I’m currently expanding my analytical skills and building real-world portfolio
 ---
 
 ##  **My Projects**
+Sales-Performance-Analysis
 
 
 ---
